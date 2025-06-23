@@ -1,8 +1,8 @@
-<h1 align="left">Seja bem vindo ao meu perfil Krai!</h1>
+<h1 align="left">Seja bem vindo ao meu perfil!!</h1>
 
 ###
 
-<p align="left">Meu nome é bruno henrique, vim do Rio de janeiro, sou caioca e amo mulheres!</p>
+<h5 align="left">Meu nome é bruno henrique, vim do Rio de janeiro, sou caioca e amo mulheres!</h5>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou vendedor.<br>Jogos vários jogos.<br>Gosto de conhecer pessoas novas.</p>
+<h4 align="left">Sou vendedor.<br>Jogos vários jogos.<br>Gosto de conhecer pessoas novas.</h4>
 
 ###
 
@@ -40,6 +40,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruninxx/bruninxx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruninxx/bruninxx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bruninxx/bruninxx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruninxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bruninxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="220" src="https://www.infomoney.com.br/wp-content/uploads/2025/04/thelastofus.jpeg?w=1000&quality=70&strip=all"  />
 </div>
 
 ###
