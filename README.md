@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome e Bruno Henrique, vim de Mato Grosso do Sul morarem ponta grossa, e estou descobrindo coisas novas e compartilhando meus conhecimentos</p>
+<p align="left">Meu nome e Bruno Henrique, vim de Mato Grosso do Sul morarem Ponta Grossa, e estou descobrindo coisas novas e compartilhando meus conhecimentos</p>
 
 ###
 
